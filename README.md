@@ -1,6 +1,6 @@
 # ⚙️ Automate Windows User Setup – PowerShell Script
 
-This project contains a PowerShell script that automates the creation of local user accounts in Windows, designed for IT support and remote onboarding. The repository includes a bilingual SOP (Standard Operating Procedure) for documentation and operational clarity.
+This project contains a PowerShell script that automates the creation of local user accounts in Windows, designed for IT support and remote onboarding. The repository includes a SOP (Standard Operating Procedure) for documentation and operational clarity.
 
 ## 📂 Contents
 - `create_local_user.ps1` → PowerShell script to create and assign a local user
